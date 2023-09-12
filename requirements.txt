@@ -1,0 +1,16 @@
+streamlit
+requests
+streamlit_lottie
+streamlit_jupyter 
+pandas==1.5.3
+numpy
+matplotlib
+seaborn
+plotly
+streamlit_chat
+streamlit_extras
+hugchat
+pandas-profiling
+lazypredict
+streamlit-pandas-profiling
+scikit-learn
