@@ -1,4 +1,4 @@
-# dap-app😎
+# Auto-ML-app😎
 
 ## Installation
 Download all the needed packages by pip
