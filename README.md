@@ -3,7 +3,7 @@
 ## Installation
 Download all the needed packages by pip
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run app in terminal
