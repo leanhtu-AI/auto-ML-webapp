@@ -20,7 +20,7 @@ streamlit run 1_🤗_Home.py
 ```
 
 > [!NOTE]
-> 
+> I am not deploy on Streamlit Cloud
 
 ## References💕
 [AutoMachineLearning](https://www.youtube.com/watch?v=xTKoyfCQiiU&t=1068s)
